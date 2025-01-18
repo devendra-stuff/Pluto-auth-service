@@ -22,8 +22,8 @@ This project is a Node.js microservice that implements an OAuth 2.0 server. It a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/oauth2-server.git
-   cd oauth2-server
+   git clone https://github.com/devendra-stuff/Pluto-auth-service.git
+   cd Pluto-auth-service
    ```
 
 2. Install dependencies:
